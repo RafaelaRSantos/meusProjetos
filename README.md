@@ -1,2 +1,2 @@
-# meusProjetos
-Progetos de estudo
+# Projetos da faculdade linguagem Python
+Projetos de estudo
